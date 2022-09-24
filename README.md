@@ -14,8 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/dobry_sobur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dobry_sobur" height="30" width="40" /></a>
-<a href="https://instagram.com/gafforiy_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gafforiy_s" height="30" width="40" /></a>
-<a href="https://telegram.com/gafforiy_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="gafforiy_s" height="30" width="40" /></a>
+<a href="https://telegram.com/gafforiy_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gafforiy_s" height="30" width="40" /></a>
 <a href="https://discord.gg/soburjon(#2592)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soburjon(#2592)" height="30" width="40" /></a>
 </p>
 
