@@ -26,9 +26,10 @@
 
 ![Dino](https://raw.githubusercontent.com/soburjon19/soburjon19/master/dino.gif)
 
+## 📊 Most Used Language
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soburjon19&show_icons=true&locale=en&layout=compact" alt="soburjon19" /></p>
 
-## 📊 My Github Stats
+## 🖥 My Github Stats
 
 <p>&nbsp;<img align="center" style="background-black" src="https://github-readme-stats.vercel.app/api?username=soburjon19&show_icons=true&locale=en" alt="soburjon19" /></p>
 
