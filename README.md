@@ -35,3 +35,7 @@
 ## 📈 Current Streak
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soburjon19&" alt="soburjon19" /></p>
+
+<h2 align="center">Watch my contribution graph being eaten by a Snake! 🐍<h2>
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/soburjon19/soburjon19/master/snake.svg)
