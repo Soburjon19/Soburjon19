@@ -35,6 +35,8 @@
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=soburjon19&bg_color=000000&color=71b7ff&line=09b43a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
+ [![Soburjon's github activity graph](https://master.d1wlzgoxcnlxwr.amplifyapp.com/graph?username=soburjon19&bg_color=000000&color=71b7ff&line=09b43a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 <h2 align="center">Watch my contribution graph being eaten by a Snake! 🐍<h2>
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/soburjon19/soburjon19/master/snake.svg)
