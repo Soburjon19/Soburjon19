@@ -37,8 +37,11 @@
 | 📊 Most Used Language | 🖥 My Github Stats | 📈 Current Streak |
 | :------------------------- | :------------------------- | :------------------------- |
 | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soburjon19&show_icons=true&locale=en&layout=compact" alt="soburjon19" /></p> | <p>&nbsp;<img align="center" style="background-black" src="https://github-readme-stats.vercel.app/api?username=soburjon19&show_icons=true&locale=en" alt="soburjon19" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soburjon19&" alt="soburjon19" /></p> |
-
- [![Soburjon's github activity graph](https://master.d1wlzgoxcnlxwr.amplifyapp.com/username=soburjon19&bg_color=000000&color=71b7ff&line=09b43a&point=ffffff&area=true&hide_border=true)](https://github.com/Soburjon19/github)
+<!-- 
+ [![Soburjon's github activity graph](https://master.d1wlzgoxcnlxwr.amplifyapp.com/username=soburjon19&bg_color=000000&color=71b7ff&line=09b43a&point=ffffff&area=true&hide_border=true)](https://github.com/Soburjon19/github) 
+-->
+ <h2 align="center">Activity📈<h2>
+ [![Aditya's Github readme activity](https://github-readme-activity-graph.cyclic.app/graph?username=soburjon19&theme=dracula)](https://github.com/soburjon19/)
  
 <h2 align="center">Watch my contribution graph being eaten by a Snake! 🐍<h2>
 
