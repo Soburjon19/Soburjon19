@@ -5,6 +5,7 @@
   <img src="https://profile-counter.glitch.me/soburjon19/count.svg" />
 </p>
 
+
 <img align="right" alt="coding" width="400" src="https://dxbcode.com/assets/images/39998-web-development.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=soburjon19&label=Profile%20views&color=0e75b6&style=flat" alt="soburjon19" /> </p> -->
@@ -24,7 +25,6 @@
 <a href="https://discord.gg/soburjon(#2592)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/soburjon-daminov-807b41252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
-
 
 ## 🚀 Languages and Tools:
 
