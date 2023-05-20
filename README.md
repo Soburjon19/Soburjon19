@@ -4,7 +4,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/soburjon19/count.svg" />
 </p>
-
 <img align="right" alt="coding" width="400" src="https://dxbcode.com/assets/images/39998-web-development.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=soburjon19&label=Profile%20views&color=0e75b6&style=flat" alt="soburjon19" /> </p> -->
